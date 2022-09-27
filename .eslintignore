@@ -1,0 +1,5 @@
+jest.config.ts
+babel.config.js
+.babelrc
+commitlint.config.js
+webpack.*
